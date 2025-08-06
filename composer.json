@@ -1,0 +1,13 @@
+{
+  "name": "atrocore/skeleton-atrocore-no-demo",
+  "description": "Skeleton for AtroCore",
+  "homepage": "https://atrocore.com",
+  "minimum-stability": "stable",
+  "require": {
+    "atrocore/core": ">=2.0.23",
+    "atrocore/export": "*",
+    "atrocore/export-http": "*",
+    "atrocore/import": "*",
+    "atrocore/import-http": "*"
+  }
+}
