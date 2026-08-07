@@ -4,7 +4,7 @@
   "homepage": "https://atrocore.com",
   "minimum-stability": "stable",
   "require": {
-    "atrocore/core": ">=2.3.4",
+    "atrocore/core": ">=2.3.12",
     "atrocore/export": "*",
     "atrocore/export-http": "*",
     "atrocore/import": "*",
